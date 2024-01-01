@@ -44,8 +44,6 @@ flutter pub get
 flutter run
 ```
 
-
-
 ## Technologies Used
 
 - **Flutter**: The app is built using the Flutter framework for a seamless cross-platform experience.
