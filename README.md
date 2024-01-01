@@ -15,6 +15,14 @@ By facilitating direct transactions between farmers and consumers, FarmToHome re
 The app offers an intuitive and user-friendly interface, making it easy for both farmers and consumers to navigate and utilize its features.
 
 ## Screenshots
+<!-- Add screenshots or demo images of your app here -->
+<p align="center">
+  <img src="https://i.postimg.cc/c4Vq2t3x/Screenshot-20231231-235628.jpg" alt="Screenshot 1" width="200"/>
+  <img src="https://i.postimg.cc/DwqNNjF6/Screenshot-20231231-235634.jpg" alt="Screenshot 2" width="200"/>
+  <img src="https://i.postimg.cc/9FwKdXnv/Screenshot-20231231-235643.jpg" alt="Screenshot 3" width="200"/>
+  <img src="https://i.postimg.cc/3xM6n5MW/Screenshot-20231231-235653.jpg" alt="Screenshot 4" width="200"/>
+</p>
+
 
 
 ## Technologies Used
