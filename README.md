@@ -23,6 +23,27 @@ The app offers an intuitive and user-friendly interface, making it easy for both
   <img src="https://i.postimg.cc/3xM6n5MW/Screenshot-20231231-235653.jpg" alt="Screenshot 4" width="200"/>
 </p>
 
+## Installation
+
+Follow these steps to set up and run rMart on your local machine:
+
+
+1. Clone the Repository
+```bash
+git clone https://github.com/Ashwin-DevAsh/FarmToHome
+cd FarmToHome
+```
+
+2. Install Dependencies
+```bash
+flutter pub get
+```
+
+3. Run the Application
+```bash
+flutter run
+```
+
 
 
 ## Technologies Used
