@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "599828635469",
+    "firebase_url": "https://sih2020-e1e21.firebaseio.com",
+    "project_id": "sih2020-e1e21",
+    "storage_bucket": "sih2020-e1e21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599828635469:android:d794cfe61a96fc3c316104",
+        "android_client_info": {
+          "package_name": "com.DevAsh.farmer_portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599828635469-v2jekraqcbf1ffsvan0dteo09dsd6kpe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DevASh",
+            "certificate_hash": "14cbf9844cdfc6f43186bf24ee7da320ffd4a126"
+          }
+        },
+        {
+          "client_id": "599828635469-ebofdmubrtg3uflkmq1mpdl4rsai1611.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChlANWtzJz2OiFOSwMJQyKVR-NkPG4XN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599828635469-ebofdmubrtg3uflkmq1mpdl4rsai1611.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
